@@ -1,0 +1,1 @@
+with(ob_fake_floor) instance_destroy();
