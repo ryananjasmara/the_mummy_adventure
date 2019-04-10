@@ -3,6 +3,8 @@
 #### Description
 The Mummy Adventure is an adventure genre platform game that tells the journey of a mummy who is looking for his successor. This game was created using Game Maker Studio. **I do not have copyright in all objects and sounds in this game**. By the way this is the project of my game course.
 
+#### Download : https://drive.google.com/open?id=1SPCmi8L-DWEk_Jd5xtMNoI4FkvnOnkyX
+
 #### Story
 A mummy has awakened from his long sleep and will travel around the world to find his successor. (LuL)
 
